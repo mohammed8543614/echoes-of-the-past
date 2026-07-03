@@ -76,22 +76,6 @@ echoes-of-the-past/
 └── README.md
 ```
 
-## Setup & Usage
-
-> Note: trained model weights are not included in this repo due to file size. Reach out if you'd like access for evaluation purposes.
-
-```bash
-# clone the repo
-git clone https://github.com/YOUR_USERNAME/echoes-of-the-past.git
-cd echoes-of-the-past
-
-# install dependencies
-pip install -r requirements.txt
-
-# run the Streamlit app (requires model weights in place)
-streamlit run streamlit_app/app.py
-```
-
 ## Team
 
 Built by **Mohammed**, **Batool**, and **Diana** as a graduation project for the AI & Robotics program at Al Balqa Applied University.
